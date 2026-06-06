@@ -41,12 +41,6 @@ To run the experiments, use the per-condition Colab notebooks in `notebooks/`, o
 python scripts/run_all_local.py
 ```
 
-To rebuild the paper:
-
-```bash
-cd report && latexmk -pdf FINAL_PAPER.tex
-```
-
 ## Authors
 
 Adisesh Venkatesh, Amar Thota, Nikhil Karthikeyan, Sanjay Manivasagam, Anant Madhok
