@@ -12,7 +12,7 @@
 
 ---
 
-## Nikhil
+## Nikhil Karthikeyan
 
 **Contribution:** Built the seq2seq training harness, ran the answers-only fine-tuning across both seeds, and co-designed and applied the chain-quality rating rubrics.
 
