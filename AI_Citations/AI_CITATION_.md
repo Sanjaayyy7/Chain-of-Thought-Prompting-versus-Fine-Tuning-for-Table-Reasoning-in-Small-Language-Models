@@ -23,8 +23,8 @@ I used Claude (Anthropic) to help me understand the project from the ground up a
 
 ## Anant Madhok's Contribution 
 I was responsible for the rule-based reasoning-trace template generator and Condition C of the project. I generated reasoning traces for training data, ran the fine-tuning with reasoning traces experiments across two seeds, reused the shared trainer, and contributed approximately five Chain-of-Thought exemplars.
-*shared conversation* https://chatgpt.com/share/6a1cb605-22f0-83e8-a3fd-7a2233a9d037
 
 ## AI Use
 
 I used ChatGPT to help me understand and refine the project after reviewing our approved proposal. I discussed model selection (including the Flan-T5 family), fine-tuning approaches, reasoning-trace generation, chain-quality evaluation, Cohen's kappa, McNemar's test, and methods for comparing trained versus untrained models. I also used ChatGPT to explore potential evaluation metrics, dataset considerations, and experimental-design decisions. I used these conversations to clarify concepts, evaluate methodological choices, and plan my work.
+*shared conversation* https://chatgpt.com/share/6a1cb605-22f0-83e8-a3fd-7a2233a9d037
