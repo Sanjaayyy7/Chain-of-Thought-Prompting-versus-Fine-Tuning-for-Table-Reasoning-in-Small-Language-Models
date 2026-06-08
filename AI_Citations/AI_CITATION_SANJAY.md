@@ -2,7 +2,7 @@
 
 ## Sanjay Manivasagam's contribution
 
-Sanjay Manivasagam led and coordinated the project as lead author. I ran the generalization test, the error analysis, and the statistics, and pulled the final report together.
+I led and coordinated the project as lead author. I ran the generalization test, the error analysis, and the statistics, and pulled the final report together.
 
 ## AI use
 
